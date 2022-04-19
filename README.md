@@ -6,7 +6,7 @@
 <p>
   <b>A collection of projects written for my college courses.</b>
   <br/>
-  ⚠️ This is part of a <a href="https://github.com/noahhsuby/university"><strong>larger collection of projects</strong></a> for university. ⚠️
+  ⚠️ This is part of a <a href="https://github.com/noahhusby/university"><strong>larger collection of projects</strong></a> for university. ⚠️
   <br/><br/>
 </p>
 </div>
