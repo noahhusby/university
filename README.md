@@ -16,3 +16,4 @@
 | GUI | [TicketFlow](https://github.com/noahhusby/TicketFlow) | Sample ticketing software. | Java, Kotlin | Compose Multiplatform
 | Application | [DineOnCampus 2.0](https://github.com/noahhusby/DineOnCampus2.0) | Dining Info app. | Kotlin | Jetpack Compose |
 | API | [rent](https://github.com/noahhusby/rent) | Sample rental store backend. | Java | Springboot |
+| API / Frontend | [catalog](https://github.com/noahhusby/catalog) | Scraper & Information Retrieval System. | Python | Flask, NTLK, Sklearn |
